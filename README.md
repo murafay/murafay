@@ -1,124 +1,92 @@
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────┐
-│  muhammadrafay9@azure:~$ whoami                          │
-└─────────────────────────────────────────────────────────┘
-```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Muhammad%20Rafay&fontSize=55&fontColor=00FF9C&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Azure%20%7C%20Kubernetes%20%7C%20Automation&descAlignY=58&descSize=20"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Muhammad+Rafay;DevOps+Engineer;Azure+%7C+Kubernetes+%7C+Terraform+%7C+CI%2FCD;CKAD+Certified" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=DevOps+Engineer;Azure+%7C+Kubernetes+%7C+Terraform+%7C+CI%2FCD;CKAD+Certified;Automating+Everything+I+Can" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=muhammadrafay9&label=Profile%20Views&color=00FF41&style=flat-square" alt="profile views" />
-
-</div>
-
----
-
-```bash
-muhammadrafay9@azure:~$ cat about.txt
-```
-
-```
-DevOps Engineer specializing in Azure infrastructure, Kubernetes, and CI/CD automation.
-CKA & CKAD certified, currently exploring the intersection of DevOps and agentic AI systems.
-
-🔭 Currently building   → AI-Powered DevSecOps Auto-Remediation Platform
-🌱 Currently exploring  → Agentic AI systems & LLM-applied DevOps automation
-💼 Open to              → DevOps / Cloud Engineering roles & freelance work
-```
-
----
-
-```bash
-muhammadrafay9@azure:~$ ./run stack.sh --list
-```
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github-actions" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-
-</div>
-
-```
-[OK] azure          [OK] kubernetes   [OK] docker       [OK] terraform
-[OK] github-actions [OK] jenkins      [OK] prometheus   [OK] grafana
-[OK] nginx          [OK] python       [OK] fastapi      [OK] flask
-[OK] react          [OK] postgresql   [OK] mysql        [OK] linux
-[OK] git            [OK] bash
-```
-
----
-
-```bash
-muhammadrafay9@azure:~$ cat certifications.txt
-```
-
-```
-[✓] Certified Kubernetes Application Developer (CKAD) — Linux Foundation
-```
-
----
-
-```bash
-muhammadrafay9@azure:~$ git log --stats --author="muhammadrafay9"
-```
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=muhammadrafay9&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadrafay9&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadrafay9&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top Langs" height="165"/>
-
-</div>
-
----
-
-```bash
-muhammadrafay9@azure:~$ cat ./contact.json
-```
-
-```json
-{
-  "linkedin": "linkedin.com/in/muhammadrafay9",
-  "medium": "medium.com/@muhammadrafay588",
-  "hashnode": "hashnode.com/@rafay92",
-  "status": "open_to_work"
-}
-```
-
-<div align="center">
+<br/>
 
 <a href="https://linkedin.com/in/muhammadrafay9"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://medium.com/@muhammadrafay588"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 <a href="https://hashnode.com/@rafay92"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=muhammadrafay9&label=Profile%20Views&color=00FF9C&style=for-the-badge"/>
 
 </div>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
+
+### 🧭 About Me
+
+```yaml
+role: DevOps Engineer
+focus: [Azure Infrastructure, Kubernetes, CI/CD Automation]
+certifications: [CKAD]
+currently_building: AI-Powered DevSecOps Auto-Remediation Platform
+currently_exploring: [Agentic AI Systems, LLM-applied DevOps automation]
+open_to: [DevOps roles, Cloud Engineering roles, Freelance work]
+```
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
+
+### 🛠️ Tech Stack
 
 <div align="center">
 
-```
-muhammadrafay9@azure:~$ echo "Thanks for stopping by!" | lolcat
-> Thanks for stopping by!
-> Process finished with exit code 0
-```
+<img src="https://skillicons.dev/icons?i=azure,kubernetes,docker,terraform,githubactions,jenkins,prometheus,grafana,nginx,python,fastapi,flask,react,postgres,mysql,linux,git,bash&theme=dark" />
+
+</div>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
+
+### 📜 Certifications
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/CKAD-Certified%20Kubernetes%20App%20Developer-00FF9C?style=for-the-badge&logo=kubernetes&logoColor=black"/>
+
+</div>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=muhammadrafay9&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadrafay9&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadrafay9&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF9C&text_color=c9d1d9" height="165"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadrafay9&theme=react-dark&hide_border=true&bg_color=0d1117&color=00FF9C&line=00FF9C&point=ffffff"/>
+
+</div>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
+
+### 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=muhammadrafay9&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1"/>
+
+</div>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
+
+<div align="center">
+
+### 📬 Let's Connect
+
+**Open to DevOps / Cloud Engineering roles & freelance opportunities.**
+
+<a href="https://linkedin.com/in/muhammadrafay9"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+<br/><br/>
+
+<img width="60%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer"/>
 
 </div>
