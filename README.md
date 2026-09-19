@@ -29,28 +29,6 @@ muhammadrafay9@github:~$ cat about.txt
 ---
 
 ```bash
-muhammadrafay9@github:~$ ls ./experience/
-```
-
-```
-drwxr-xr-x  aws-cloud-club-nutech/    DevOps Lead              Jan 2026 - Present
-drwxr-xr-x  buildables/               DevOps Engineer          Aug 2025 - Nov 2025
-drwxr-xr-x  al-nafi/                  Linux SysAdmin / Intern  Dec 2023 - Mar 2025
-```
-
-```bash
-muhammadrafay9@github:~$ cat ./experience/buildables/summary.md
-```
-
-```
-- Built CI/CD pipelines with GitHub Actions for a Flask + React project
-- Automated Docker image builds & deployments to Docker Hub
-- Set up Prometheus + Grafana for system observability
-```
-
----
-
-```bash
 muhammadrafay9@github:~$ ./run stack.sh --list
 ```
 
