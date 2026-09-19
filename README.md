@@ -6,7 +6,7 @@
 └─────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Muhammad+Rafay;DevOps+Engineer+%40+NexAura+Group;Azure+%7C+Kubernetes+%7C+Terraform+%7C+CI%2FCD;CKA+%26+CKAD+Certified" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Muhammad+Rafay;DevOps+Engineer;Azure+%7C+Kubernetes+%7C+Terraform+%7C+CI%2FCD;CKAD+Certified" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=muhammadrafay9&label=Profile%20Views&color=00FF41&style=flat-square" alt="profile views" />
 
