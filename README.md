@@ -1,45 +1,129 @@
-<h1 align="center">Hi 👋, I'm Muhammad Rafay</h1>
-<h3 align="center">DevOps Engineer | Cloud & Automation Enthusiast | Kubernetes | Jenkins | AWS</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadrafay9&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadrafay9" /> </p>
+```
+┌─────────────────────────────────────────────────────────┐
+│  muhammadrafay9@github:~$ whoami                         │
+└─────────────────────────────────────────────────────────┘
+```
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Muhammad+Rafay;DevOps+Engineer;Cloud+%26+Automation+Enthusiast;Kubernetes+%7C+Jenkins+%7C+AWS" alt="Typing SVG" />
 
-### 🌐 Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/muhammadrafay9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadrafay9" height="30" width="40" /></a>
-<a href="https://hashnode.com/@rafay92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="rafay92" height="30" width="40" /></a>
-<a href="https://medium.com/@muhammadrafay588" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="muhammadrafay588" height="30" width="40" /></a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=muhammadrafay9&label=Profile%20Views&color=00FF41&style=flat-square" alt="profile views" />
 
----
-
-### ⚒️ Languages and Tools:
-<p align="left"> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
-<a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
-<a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>
-<a href="https://grafana.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/></a>
-<a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-</p>
+</div>
 
 ---
 
-### 📊 GitHub Stats:
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadrafay9&show_icons=true&locale=en&layout=compact" alt="muhammadrafay9" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadrafay9&show_icons=true&locale=en" alt="muhammadrafay9" /></p>
+```bash
+muhammadrafay9@github:~$ cat about.txt
+```
+
+```
+> DevOps Engineer based in Islamabad, Pakistan
+> Focused on CI/CD, cloud infrastructure & automation
+> Currently: DevOps Lead @ AWS Cloud Club NUTECH
+> Building scalable systems with Docker, Ansible & Kubernetes
+> Status: Open to DevOps / Cloud Engineering opportunities
+```
 
 ---
+
+```bash
+muhammadrafay9@github:~$ ls ./experience/
+```
+
+```
+drwxr-xr-x  aws-cloud-club-nutech/    DevOps Lead              Jan 2026 - Present
+drwxr-xr-x  buildables/               DevOps Engineer          Aug 2025 - Nov 2025
+drwxr-xr-x  al-nafi/                  Linux SysAdmin / Intern  Dec 2023 - Mar 2025
+```
+
+```bash
+muhammadrafay9@github:~$ cat ./experience/buildables/summary.md
+```
+
+```
+- Built CI/CD pipelines with GitHub Actions for a Flask + React project
+- Automated Docker image builds & deployments to Docker Hub
+- Set up Prometheus + Grafana for system observability
+```
+
+---
+
+```bash
+muhammadrafay9@github:~$ ./run stack.sh --list
+```
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+
+</div>
+
+```
+[OK] aws        [OK] docker      [OK] kubernetes   [OK] jenkins
+[OK] bash       [OK] python      [OK] linux        [OK] git
+[OK] react      [OK] flask       [OK] grafana      [OK] nginx
+```
+
+---
+
+```bash
+muhammadrafay9@github:~$ git log --stats --author="muhammadrafay9"
+```
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=muhammadrafay9&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadrafay9&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadrafay9&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top Langs" height="165"/>
+
+</div>
+
+---
+
+```bash
+muhammadrafay9@github:~$ cat ./contact.json
+```
+
+```json
+{
+  "linkedin": "linkedin.com/in/muhammadrafay9",
+  "medium": "medium.com/@muhammadrafay588",
+  "hashnode": "hashnode.com/@rafay92",
+  "status": "open_to_work"
+}
+```
+
+<div align="center">
+
+<a href="https://linkedin.com/in/muhammadrafay9"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://medium.com/@muhammadrafay588"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="https://hashnode.com/@rafay92"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
+
+</div>
+
+---
+
+<div align="center">
+
+```
+muhammadrafay9@github:~$ echo "Thanks for stopping by!" | lolcat
+> Thanks for stopping by!
+> Process finished with exit code 0
+```
+
+</div>
