@@ -24,7 +24,6 @@ CKA & CKAD certified, currently exploring the intersection of DevOps and agentic
 
 🔭 Currently building   → AI-Powered DevSecOps Auto-Remediation Platform
 🌱 Currently exploring  → Agentic AI systems & LLM-applied DevOps automation
-🎓 Final Year Project   → SEE-AAIS — decision gateway between AI agents & enterprise systems
 💼 Open to              → DevOps / Cloud Engineering roles & freelance work
 ```
 
@@ -41,20 +40,27 @@ muhammadrafay9@azure:~$ ./run stack.sh --list
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github-actions" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 
 </div>
 
 ```
-[OK] azure        [OK] kubernetes   [OK] docker       [OK] terraform
-[OK] github-actions [OK] prometheus [OK] grafana      [OK] python
-[OK] fastapi       [OK] postgresql  [OK] linux        [OK] bash
+[OK] azure          [OK] kubernetes   [OK] docker       [OK] terraform
+[OK] github-actions [OK] jenkins      [OK] prometheus   [OK] grafana
+[OK] nginx          [OK] python       [OK] fastapi      [OK] flask
+[OK] react          [OK] postgresql   [OK] mysql        [OK] linux
+[OK] git            [OK] bash
 ```
 
 ---
@@ -64,7 +70,6 @@ muhammadrafay9@azure:~$ cat certifications.txt
 ```
 
 ```
-[✓] Certified Kubernetes Administrator (CKA) — Linux Foundation
 [✓] Certified Kubernetes Application Developer (CKAD) — Linux Foundation
 ```
 
