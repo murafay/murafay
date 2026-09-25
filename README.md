@@ -50,9 +50,9 @@ open_to: [DevOps roles, Cloud Engineering roles, Freelance work]
 
 ### 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=muhammadrafay9&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9" height="165"/>
+<div align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadrafay9&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadrafay9&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" height="165"/>    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadrafay9&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF9C&text_color=c9d1d9" height="165"/>
 
 </div>
 
